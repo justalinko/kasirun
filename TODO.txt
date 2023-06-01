@@ -1,0 +1,18 @@
+ADMIN -
+* Data barang
+* Data kategori
+* Data supplier
+* Data satuan
+* Data pelanggan
+* Data user
+
+Laporan
+* Laporan penjualan filter tanggal
+* Laporan transaksi filter tanggal
+* Laporan stok barang
+* Laporan stok barang filter kategori
+* Laporan stok barang filter satuan
+
+
+Kasir
+* Transaksi penjualan
